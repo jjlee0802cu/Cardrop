@@ -29,6 +29,9 @@ After a successful rental, you will be directed to a ‘Thank You’ screen, whe
 
 ## Developers
 Justin Lee @jjlee0802cu
+
 Alex Wang @alejwang
+
 Jesse Zhong @jessewzhong
+
 Michael Jan
