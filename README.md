@@ -26,3 +26,9 @@ Visit https://cardrop.wixsite.com/cardrop to use the app. To begin, click the �
 For testing purposes, select one of the cars that have the ‘[FREE]’ tag in their names, and proceed by clicking ‘More Info >’. The next screen will display the details of your reservation, and by clicking ‘Rent Now’, you will be directed to a confirmation screen. On click, the button ‘Continue’ will prompt a payment screen (for testing purposes, free cars will not prompt this screen). 
 
 After a successful rental, you will be directed to a ‘Thank You’ screen, where you may now click the ‘My Rentals’ hyperlink or the ‘My Rentals’ button at the top of the page to view all your rentals. During the time of access specified by your reservation, the ‘Unlock’ and ‘Lock’ buttons will be available for use. Otherwise, they will be grayed out and cannot be used.
+
+## Developers
+Justin Lee @jjlee0802cu
+Alex Wang @alejwang
+Jesse Zhong @jessewzhong
+Michael Jan
