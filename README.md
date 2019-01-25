@@ -1,4 +1,4 @@
-<img src='https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjOvajcqongAhWRd98KHThaDZMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcar%2F&psig=AOvVaw2PVJuSGjH98dUW3qmn34Hy&ust=1548519476547089' />
+<img src='/cardrop.png' width=300 />
 
 The folder “CardropApp” contains the actual code for the website/application. The website is located at: https://cardrop.wixsite.com/cardrop.
 
